@@ -1,0 +1,9 @@
+This is a DAQ for the 1 Ton WbLS system, written in LabVIEW.
+It requires the following:
+- The LabVIEW addon h5labview.
+- The CAENComm library and CAENVMElib library.
+
+The current VME bridge setup is:
+CAENComm -> CAEN A2818 -> CAEN V2718 -> VME modules.
+
+Data are saved in HDF5 format (there are C++/Python libraries that can be used for reading into ROOT).
