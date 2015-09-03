@@ -22,7 +22,7 @@
 			<Item Name="CAENComm.dll" Type="Document" URL="CAENComm.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="CAENComm.lvlib" Type="Library" URL="../../../../../Program Files (x86)/CAEN/Comm/labview/CAENComm.lvlib"/>
+			<Item Name="CAENComm.lvlib" Type="Library" URL="../../../../../../Program Files (x86)/CAEN/Comm/labview/CAENComm.lvlib"/>
 			<Item Name="OpenInterface.vi" Type="VI" URL="../OpenInterface.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>

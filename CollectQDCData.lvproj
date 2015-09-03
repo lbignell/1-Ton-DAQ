@@ -13,21 +13,18 @@
 		<Item Name="ClearEventsQDC.vi" Type="VI" URL="../ClearEventsQDC.vi"/>
 		<Item Name="ConfigureQDC.vi" Type="VI" URL="../ConfigureQDC.vi"/>
 		<Item Name="CreateHDF5.vi" Type="VI" URL="../CreateHDF5.vi"/>
-		<Item Name="DatasetNames.vi" Type="VI" URL="../HDF5/DatasetNames.vi"/>
 		<Item Name="GetDataQDCV965A.vi" Type="VI" URL="../GetDataQDCV965A.vi"/>
-		<Item Name="InitializeFile.vi" Type="VI" URL="../HDF5/InitializeFile.vi"/>
-		<Item Name="InitializeFile_useVariant.vi" Type="VI" URL="../HDF5/InitializeFile_useVariant.vi"/>
+		<Item Name="InitializeFile_useVariant.vi" Type="VI" URL="../InitializeFile_useVariant.vi"/>
 		<Item Name="OpenInterface.vi" Type="VI" URL="../OpenInterface.vi"/>
 		<Item Name="ProcessEvtQDC.vi" Type="VI" URL="../ProcessEvtQDC.vi"/>
 		<Item Name="RangeAndSetupQDC.vi" Type="VI" URL="../RangeAndSetupQDC.vi"/>
 		<Item Name="ReadHDF5data.vi" Type="VI" URL="../ReadHDF5data.vi"/>
 		<Item Name="RunQDC.vi" Type="VI" URL="../RunQDC.vi"/>
 		<Item Name="RunQDC_nice.vi" Type="VI" URL="../RunQDC_nice.vi"/>
-		<Item Name="SanityCheck.vi" Type="VI" URL="../HDF5/SanityCheck.vi"/>
+		<Item Name="SanityCheck.vi" Type="VI" URL="../SanityCheck.vi"/>
 		<Item Name="SaveDataQDCV965A.vi" Type="VI" URL="../SaveDataQDCV965A.vi"/>
 		<Item Name="SetRangeQDC.vi" Type="VI" URL="../SetRangeQDC.vi"/>
-		<Item Name="TestFileCreationAndWriting.vi" Type="VI" URL="../HDF5/TestFileCreationAndWriting.vi"/>
-		<Item Name="WriteEvent.vi" Type="VI" URL="../HDF5/WriteEvent.vi"/>
+		<Item Name="TestFileCreationAndWriting.vi" Type="VI" URL="../TestFileCreationAndWriting.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
@@ -67,6 +64,7 @@
 				<Item Name="Longest Line Length in Pixels.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Longest Line Length in Pixels.vi"/>
 				<Item Name="LVBoundsTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVBoundsTypeDef.ctl"/>
 				<Item Name="LVRectTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVRectTypeDef.ctl"/>
+				<Item Name="Merge Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Merge Errors.vi"/>
 				<Item Name="NI_FileType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/lvfile.llb/NI_FileType.lvlib"/>
 				<Item Name="NI_PackedLibraryUtility.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/LVLibp/NI_PackedLibraryUtility.lvlib"/>
 				<Item Name="Not Found Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Not Found Dialog.vi"/>
@@ -85,7 +83,16 @@
 			<Item Name="CAENComm.dll" Type="Document" URL="CAENComm.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="CAENComm.lvlib" Type="Library" URL="../../../../../Program Files (x86)/CAEN/Comm/labview/CAENComm.lvlib"/>
+			<Item Name="CAENComm.lvlib" Type="Library" URL="../../../../../../Program Files (x86)/CAEN/Comm/labview/CAENComm.lvlib"/>
+			<Item Name="Close Device.vi" Type="VI" URL="../../../../../Program Files (x86)/CAEN/Comm/labview/VIs/Close Device.vi"/>
+			<Item Name="DatasetNames.vi" Type="VI" URL="../DatasetNames.vi"/>
+			<Item Name="InitializeFile.vi" Type="VI" URL="../InitializeFile.vi"/>
+			<Item Name="IRQ Enable.vi" Type="VI" URL="../../../../../Program Files (x86)/CAEN/Comm/labview/VIs/IRQ Enable.vi"/>
+			<Item Name="IRQ Wait.vi" Type="VI" URL="../../../../../Program Files (x86)/CAEN/Comm/labview/VIs/IRQ Wait.vi"/>
+			<Item Name="MBLT Read.vi" Type="VI" URL="../../../../../Program Files (x86)/CAEN/Comm/labview/VIs/MBLT Read.vi"/>
+			<Item Name="Read32.vi" Type="VI" URL="../../../../../Program Files (x86)/CAEN/Comm/labview/VIs/Read32.vi"/>
+			<Item Name="Write16.vi" Type="VI" URL="../../../../../Program Files (x86)/CAEN/Comm/labview/VIs/Write16.vi"/>
+			<Item Name="WriteEvent.vi" Type="VI" URL="../WriteEvent.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>

@@ -14,6 +14,7 @@
 		<Item Name="GetAllData.vi" Type="VI" URL="../GetAllData.vi"/>
 		<Item Name="GetDigitizerDataV1729A.vi" Type="VI" URL="../GetDigitizerDataV1729A.vi"/>
 		<Item Name="GLOBAL_addresses.vi" Type="VI" URL="../GLOBAL_addresses.vi"/>
+		<Item Name="InitializeFile.vi" Type="VI" URL="../InitializeFile.vi"/>
 		<Item Name="ProcessEvtTDC.vi" Type="VI" URL="../ProcessEvtTDC.vi"/>
 		<Item Name="Run1Ton.vi" Type="VI" URL="../Run1Ton.vi"/>
 		<Item Name="SaveDataDigitizerV1729.vi" Type="VI" URL="../SaveDataDigitizerV1729.vi"/>
@@ -40,7 +41,7 @@
 			<Item Name="CAENComm.dll" Type="Document" URL="CAENComm.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="CAENComm.lvlib" Type="Library" URL="../../../../../Program Files (x86)/CAEN/Comm/labview/CAENComm.lvlib"/>
+			<Item Name="CAENComm.lvlib" Type="Library" URL="../../../../../../Program Files (x86)/CAEN/Comm/labview/CAENComm.lvlib"/>
 			<Item Name="ClearEventsQDC.vi" Type="VI" URL="../ClearEventsQDC.vi"/>
 			<Item Name="ClearEventsTDC.vi" Type="VI" URL="../ClearEventsTDC.vi"/>
 			<Item Name="ClearEventsV830.vi" Type="VI" URL="../ClearEventsV830.vi"/>
@@ -49,12 +50,11 @@
 			<Item Name="ConfigureQDC.vi" Type="VI" URL="../ConfigureQDC.vi"/>
 			<Item Name="ConfigureScaler.vi" Type="VI" URL="../ConfigureScaler.vi"/>
 			<Item Name="CreateHDF5.vi" Type="VI" URL="../CreateHDF5.vi"/>
-			<Item Name="DatasetNames.vi" Type="VI" URL="../HDF5/DatasetNames.vi"/>
+			<Item Name="DatasetNames.vi" Type="VI" URL="../DatasetNames.vi"/>
 			<Item Name="GetDataQDCV965A.vi" Type="VI" URL="../GetDataQDCV965A.vi"/>
 			<Item Name="GetDataTDCV775_D32.vi" Type="VI" URL="../GetDataTDCV775_D32.vi"/>
 			<Item Name="GetScalerDataV830.vi" Type="VI" URL="../GetScalerDataV830.vi"/>
 			<Item Name="GLOBAL_baseline.vi" Type="VI" URL="../GLOBAL_baseline.vi"/>
-			<Item Name="InitializeFile.vi" Type="VI" URL="../HDF5/InitializeFile.vi"/>
 			<Item Name="OpenInterface.vi" Type="VI" URL="../OpenInterface.vi"/>
 			<Item Name="ProcessDataV1729A.vi" Type="VI" URL="../ProcessDataV1729A.vi"/>
 			<Item Name="ProcessEvtQDC.vi" Type="VI" URL="../ProcessEvtQDC.vi"/>
