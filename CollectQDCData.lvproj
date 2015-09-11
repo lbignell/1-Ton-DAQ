@@ -64,7 +64,6 @@
 				<Item Name="Longest Line Length in Pixels.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Longest Line Length in Pixels.vi"/>
 				<Item Name="LVBoundsTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVBoundsTypeDef.ctl"/>
 				<Item Name="LVRectTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVRectTypeDef.ctl"/>
-				<Item Name="Merge Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Merge Errors.vi"/>
 				<Item Name="NI_FileType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/lvfile.llb/NI_FileType.lvlib"/>
 				<Item Name="NI_PackedLibraryUtility.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/LVLibp/NI_PackedLibraryUtility.lvlib"/>
 				<Item Name="Not Found Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Not Found Dialog.vi"/>
@@ -84,14 +83,8 @@
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="CAENComm.lvlib" Type="Library" URL="../../../../../../Program Files (x86)/CAEN/Comm/labview/CAENComm.lvlib"/>
-			<Item Name="Close Device.vi" Type="VI" URL="../../../../../Program Files (x86)/CAEN/Comm/labview/VIs/Close Device.vi"/>
 			<Item Name="DatasetNames.vi" Type="VI" URL="../DatasetNames.vi"/>
 			<Item Name="InitializeFile.vi" Type="VI" URL="../InitializeFile.vi"/>
-			<Item Name="IRQ Enable.vi" Type="VI" URL="../../../../../Program Files (x86)/CAEN/Comm/labview/VIs/IRQ Enable.vi"/>
-			<Item Name="IRQ Wait.vi" Type="VI" URL="../../../../../Program Files (x86)/CAEN/Comm/labview/VIs/IRQ Wait.vi"/>
-			<Item Name="MBLT Read.vi" Type="VI" URL="../../../../../Program Files (x86)/CAEN/Comm/labview/VIs/MBLT Read.vi"/>
-			<Item Name="Read32.vi" Type="VI" URL="../../../../../Program Files (x86)/CAEN/Comm/labview/VIs/Read32.vi"/>
-			<Item Name="Write16.vi" Type="VI" URL="../../../../../Program Files (x86)/CAEN/Comm/labview/VIs/Write16.vi"/>
 			<Item Name="WriteEvent.vi" Type="VI" URL="../WriteEvent.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
