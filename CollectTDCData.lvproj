@@ -22,18 +22,13 @@
 				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
 				<Item Name="High Resolution Relative Seconds.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/High Resolution Relative Seconds.vi"/>
-				<Item Name="Merge Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Merge Errors.vi"/>
 			</Item>
-			<Item Name="BLT Read.vi" Type="VI" URL="../../../../../Program Files (x86)/CAEN/Comm/labview/VIs/BLT Read.vi"/>
 			<Item Name="CAENComm.dll" Type="Document" URL="CAENComm.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="CAENComm.lvlib" Type="Library" URL="../../../../../../Program Files (x86)/CAEN/Comm/labview/CAENComm.lvlib"/>
 			<Item Name="ClearEventsQDC.vi" Type="VI" URL="../ClearEventsQDC.vi"/>
-			<Item Name="Close Device.vi" Type="VI" URL="../../../../../Program Files (x86)/CAEN/Comm/labview/VIs/Close Device.vi"/>
 			<Item Name="ConfigureQDC.vi" Type="VI" URL="../ConfigureQDC.vi"/>
-			<Item Name="IRQ Enable.vi" Type="VI" URL="../../../../../Program Files (x86)/CAEN/Comm/labview/VIs/IRQ Enable.vi"/>
-			<Item Name="IRQ Wait.vi" Type="VI" URL="../../../../../Program Files (x86)/CAEN/Comm/labview/VIs/IRQ Wait.vi"/>
 			<Item Name="OpenInterface.vi" Type="VI" URL="../OpenInterface.vi"/>
 			<Item Name="SetRangeQDC.vi" Type="VI" URL="../SetRangeQDC.vi"/>
 		</Item>
