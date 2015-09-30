@@ -14,6 +14,7 @@
 		<Item Name="BasicDigitizerAcquire.vi" Type="VI" URL="../BasicDigitizerAcquire.vi"/>
 		<Item Name="ConfigureDigitizer.vi" Type="VI" URL="../ConfigureDigitizer.vi"/>
 		<Item Name="GLOBAL_baseline.vi" Type="VI" URL="../GLOBAL_baseline.vi"/>
+		<Item Name="GlobalPedCal.vi" Type="VI" URL="../GlobalPedCal.vi"/>
 		<Item Name="ProcessDataV1729A.vi" Type="VI" URL="../ProcessDataV1729A.vi"/>
 		<Item Name="ProcessDataV1729A_withPedSub.vi" Type="VI" URL="../ProcessDataV1729A_withPedSub.vi"/>
 		<Item Name="ProcessPedCalDataV1729A.vi" Type="VI" URL="../ProcessPedCalDataV1729A.vi"/>
@@ -43,6 +44,7 @@
 			</Item>
 			<Item Name="CAENComm.lvlib" Type="Library" URL="../../../../../../Program Files (x86)/CAEN/Comm/labview/CAENComm.lvlib"/>
 			<Item Name="ClearEventsQDC.vi" Type="VI" URL="../ClearEventsQDC.vi"/>
+			<Item Name="ConfigureDigitizer_PedCal.vi" Type="VI" URL="../ConfigureDigitizer_PedCal.vi"/>
 			<Item Name="ConfigureQDC.vi" Type="VI" URL="../ConfigureQDC.vi"/>
 			<Item Name="CreateHDF5.vi" Type="VI" URL="../CreateHDF5.vi"/>
 			<Item Name="DatasetNames.vi" Type="VI" URL="../DatasetNames.vi"/>
