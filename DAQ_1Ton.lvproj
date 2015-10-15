@@ -20,6 +20,8 @@
 		<Item Name="SaveDataDigitizerV1729.vi" Type="VI" URL="../SaveDataDigitizerV1729.vi"/>
 		<Item Name="SaveDataScalerV830.vi" Type="VI" URL="../SaveDataScalerV830.vi"/>
 		<Item Name="SaveDataTDCV775.vi" Type="VI" URL="../SaveDataTDCV775.vi"/>
+		<Item Name="SaveTimeData.vi" Type="VI" URL="../SaveTimeData.vi"/>
+		<Item Name="Unique Path Name.vi" Type="VI" URL="../Unique Path Name.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
@@ -33,6 +35,7 @@
 				<Item Name="H5P.lvlib" Type="Library" URL="/&lt;vilib&gt;/addons/h5labview2/props/H5P.lvlib"/>
 				<Item Name="hid_t.ctl" Type="VI" URL="/&lt;vilib&gt;/addons/h5labview2/base/hid_t.ctl"/>
 				<Item Name="lib_path.vi" Type="VI" URL="/&lt;vilib&gt;/addons/h5labview2/base/lib_path.vi"/>
+				<Item Name="Merge Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Merge Errors.vi"/>
 				<Item Name="NI_FileType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/lvfile.llb/NI_FileType.lvlib"/>
 				<Item Name="NI_PackedLibraryUtility.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/LVLibp/NI_PackedLibraryUtility.lvlib"/>
 				<Item Name="rel_path.vi" Type="VI" URL="/&lt;vilib&gt;/addons/h5labview2/base/rel_path.vi"/>
@@ -46,15 +49,17 @@
 			<Item Name="ClearEventsTDC.vi" Type="VI" URL="../ClearEventsTDC.vi"/>
 			<Item Name="ClearEventsV830.vi" Type="VI" URL="../ClearEventsV830.vi"/>
 			<Item Name="ConfigTDC.vi" Type="VI" URL="../ConfigTDC.vi"/>
-			<Item Name="ConfigureDigitizer.vi" Type="VI" URL="../ConfigureDigitizer.vi"/>
+			<Item Name="ConfigureDigitizer_PedCal.vi" Type="VI" URL="../ConfigureDigitizer_PedCal.vi"/>
 			<Item Name="ConfigureQDC.vi" Type="VI" URL="../ConfigureQDC.vi"/>
 			<Item Name="ConfigureScaler.vi" Type="VI" URL="../ConfigureScaler.vi"/>
 			<Item Name="CreateHDF5.vi" Type="VI" URL="../CreateHDF5.vi"/>
+			<Item Name="DatasetNames.ctl" Type="VI" URL="../DatasetNames.ctl"/>
 			<Item Name="DatasetNames.vi" Type="VI" URL="../DatasetNames.vi"/>
 			<Item Name="GetDataQDCV965A.vi" Type="VI" URL="../GetDataQDCV965A.vi"/>
 			<Item Name="GetDataTDCV775_D32.vi" Type="VI" URL="../GetDataTDCV775_D32.vi"/>
 			<Item Name="GetScalerDataV830.vi" Type="VI" URL="../GetScalerDataV830.vi"/>
 			<Item Name="GLOBAL_baseline.vi" Type="VI" URL="../GLOBAL_baseline.vi"/>
+			<Item Name="GlobalPedCal.vi" Type="VI" URL="../GlobalPedCal.vi"/>
 			<Item Name="OpenInterface.vi" Type="VI" URL="../OpenInterface.vi"/>
 			<Item Name="ProcessDataV1729A.vi" Type="VI" URL="../ProcessDataV1729A.vi"/>
 			<Item Name="ProcessEvtQDC.vi" Type="VI" URL="../ProcessEvtQDC.vi"/>
