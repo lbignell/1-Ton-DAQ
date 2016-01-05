@@ -11,6 +11,8 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="AcquireEventDigitizerV1729A.vi" Type="VI" URL="../AcquireEventDigitizerV1729A.vi"/>
+		<Item Name="AcquiringStates.ctl" Type="VI" URL="../AcquiringStates.ctl"/>
+		<Item Name="DatasetNames.ctl" Type="VI" URL="../DatasetNames.ctl"/>
 		<Item Name="GetAllData.vi" Type="VI" URL="../GetAllData.vi"/>
 		<Item Name="GetDigitizerDataV1729A.vi" Type="VI" URL="../GetDigitizerDataV1729A.vi"/>
 		<Item Name="GLOBAL_addresses.vi" Type="VI" URL="../GLOBAL_addresses.vi"/>
@@ -245,7 +247,6 @@
 			<Item Name="ConfigureScaler.vi" Type="VI" URL="../ConfigureScaler.vi"/>
 			<Item Name="CreateHDF5.vi" Type="VI" URL="../CreateHDF5.vi"/>
 			<Item Name="CustomCollector.vi" Type="VI" URL="../CustomCollector.vi"/>
-			<Item Name="DatasetNames.ctl" Type="VI" URL="../DatasetNames.ctl"/>
 			<Item Name="DatasetNames.vi" Type="VI" URL="../DatasetNames.vi"/>
 			<Item Name="Get_Scaler_Rate.vi" Type="VI" URL="../Get_Scaler_Rate.vi"/>
 			<Item Name="GetDataQDCV965A.vi" Type="VI" URL="../GetDataQDCV965A.vi"/>
