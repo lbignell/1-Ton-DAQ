@@ -24,6 +24,7 @@
 		<Item Name="SaveDataTDCV775.vi" Type="VI" URL="../SaveDataTDCV775.vi"/>
 		<Item Name="SaveTimeData.vi" Type="VI" URL="../SaveTimeData.vi"/>
 		<Item Name="Unique Path Name.vi" Type="VI" URL="../Unique Path Name.vi"/>
+		<Item Name="WriteConfigSettings.vi" Type="VI" URL="../WriteConfigSettings.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Append Waveforms.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/WDTOps.llb/Append Waveforms.vi"/>
