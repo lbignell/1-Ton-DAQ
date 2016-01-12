@@ -16,8 +16,15 @@
 		<Item Name="GetAllData.vi" Type="VI" URL="../GetAllData.vi"/>
 		<Item Name="GetDigitizerDataV1729A.vi" Type="VI" URL="../GetDigitizerDataV1729A.vi"/>
 		<Item Name="GLOBAL_addresses.vi" Type="VI" URL="../GLOBAL_addresses.vi"/>
+		<Item Name="GLOBAL_Dig1.vi" Type="VI" URL="../GLOBAL_Dig1.vi"/>
+		<Item Name="GLOBAL_QDC_Data.vi" Type="VI" URL="../GLOBAL_QDC_Data.vi"/>
+		<Item Name="GLOBAL_Scaler_Data.vi" Type="VI" URL="../GLOBAL_Scaler_Data.vi"/>
+		<Item Name="GLOBAL_TDC_Data.vi" Type="VI" URL="../GLOBAL_TDC_Data.vi"/>
+		<Item Name="GLOBAL_timing_data.vi" Type="VI" URL="../GLOBAL_timing_data.vi"/>
 		<Item Name="InitializeFile.vi" Type="VI" URL="../InitializeFile.vi"/>
+		<Item Name="MeanTempGlobalVar.vi" Type="VI" URL="../MeanTempGlobalVar.vi"/>
 		<Item Name="ProcessEvtTDC.vi" Type="VI" URL="../ProcessEvtTDC.vi"/>
+		<Item Name="QDC_Histogram.vi" Type="VI" URL="../QDC_Histogram.vi"/>
 		<Item Name="QDCDataCluster.ctl" Type="VI" URL="../QDCDataCluster.ctl"/>
 		<Item Name="Run1Ton.vi" Type="VI" URL="../Run1Ton.vi"/>
 		<Item Name="SaveDataDigitizerV1729.vi" Type="VI" URL="../SaveDataDigitizerV1729.vi"/>
@@ -255,14 +262,8 @@
 			<Item Name="GetDataTDCV775_D32.vi" Type="VI" URL="../GetDataTDCV775_D32.vi"/>
 			<Item Name="GetScalerDataV830.vi" Type="VI" URL="../GetScalerDataV830.vi"/>
 			<Item Name="GLOBAL_baseline.vi" Type="VI" URL="../GLOBAL_baseline.vi"/>
-			<Item Name="GLOBAL_Dig1.vi" Type="VI" URL="../GLOBAL_Dig1.vi"/>
-			<Item Name="GLOBAL_QDC_Data.vi" Type="VI" URL="../GLOBAL_QDC_Data.vi"/>
-			<Item Name="GLOBAL_Scaler_Data.vi" Type="VI" URL="../GLOBAL_Scaler_Data.vi"/>
-			<Item Name="GLOBAL_TDC_Data.vi" Type="VI" URL="../GLOBAL_TDC_Data.vi"/>
-			<Item Name="GLOBAL_timing_data.vi" Type="VI" URL="../GLOBAL_timing_data.vi"/>
 			<Item Name="GlobalPedCal.vi" Type="VI" URL="../GlobalPedCal.vi"/>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
-			<Item Name="MeanTempGlobalVar.vi" Type="VI" URL="../MeanTempGlobalVar.vi"/>
 			<Item Name="nilvaiu.dll" Type="Document" URL="nilvaiu.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
@@ -271,7 +272,6 @@
 			<Item Name="ProcessDataV1729A.vi" Type="VI" URL="../ProcessDataV1729A.vi"/>
 			<Item Name="ProcessEvtQDC.vi" Type="VI" URL="../ProcessEvtQDC.vi"/>
 			<Item Name="ProcessPedCalDataV1729A.vi" Type="VI" URL="../ProcessPedCalDataV1729A.vi"/>
-			<Item Name="QDC_Histogram.vi" Type="VI" URL="../QDC_Histogram.vi"/>
 			<Item Name="RangeAndSetupQDC.vi" Type="VI" URL="../RangeAndSetupQDC.vi"/>
 			<Item Name="Remove_Duplicate_QDC_Data.vi" Type="VI" URL="../Remove_Duplicate_QDC_Data.vi"/>
 			<Item Name="RunPedestalSubV1729A.vi" Type="VI" URL="../RunPedestalSubV1729A.vi"/>
