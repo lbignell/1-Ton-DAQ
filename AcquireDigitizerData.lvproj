@@ -50,6 +50,7 @@
 			<Item Name="DatasetNames.vi" Type="VI" URL="../DatasetNames.vi"/>
 			<Item Name="InitializeFile.vi" Type="VI" URL="../InitializeFile.vi"/>
 			<Item Name="OpenInterface.vi" Type="VI" URL="../OpenInterface.vi"/>
+			<Item Name="Path Name from Reference File" Type="VI" URL="../Path Name from Reference File"/>
 			<Item Name="SetRangeQDC.vi" Type="VI" URL="../SetRangeQDC.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
