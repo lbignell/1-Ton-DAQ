@@ -18,6 +18,7 @@
 		<Item Name="GLOBAL_addresses.vi" Type="VI" URL="../GLOBAL_addresses.vi"/>
 		<Item Name="InitializeFile.vi" Type="VI" URL="../InitializeFile.vi"/>
 		<Item Name="ProcessEvtTDC.vi" Type="VI" URL="../ProcessEvtTDC.vi"/>
+		<Item Name="QDCDataCluster.ctl" Type="VI" URL="../QDCDataCluster.ctl"/>
 		<Item Name="Run1Ton.vi" Type="VI" URL="../Run1Ton.vi"/>
 		<Item Name="SaveDataDigitizerV1729.vi" Type="VI" URL="../SaveDataDigitizerV1729.vi"/>
 		<Item Name="SaveDataScalerV830.vi" Type="VI" URL="../SaveDataScalerV830.vi"/>
