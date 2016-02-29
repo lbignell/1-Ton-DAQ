@@ -12,6 +12,7 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="AcquireEventDigitizerV1729A.vi" Type="VI" URL="../AcquireEventDigitizerV1729A.vi"/>
 		<Item Name="AcquiringStates.ctl" Type="VI" URL="../AcquiringStates.ctl"/>
+		<Item Name="AppendDataH5.vi" Type="VI" URL="../AppendDataH5.vi"/>
 		<Item Name="CompressFile.vi" Type="VI" URL="../CompressFile.vi"/>
 		<Item Name="DatasetNames.ctl" Type="VI" URL="../DatasetNames.ctl"/>
 		<Item Name="GetAllData.vi" Type="VI" URL="../GetAllData.vi"/>
