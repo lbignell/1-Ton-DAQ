@@ -12,11 +12,12 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="AcquireEventDigitizerV1729A.vi" Type="VI" URL="../AcquireEventDigitizerV1729A.vi"/>
 		<Item Name="AcquiringStates.ctl" Type="VI" URL="../AcquiringStates.ctl"/>
-		<Item Name="AppendDataH5.vi" Type="VI" URL="../AppendDataH5.vi"/>
+		<Item Name="AppendRunInfoH5.vi" Type="VI" URL="../AppendRunInfoH5.vi"/>
 		<Item Name="CompressFile.vi" Type="VI" URL="../CompressFile.vi"/>
 		<Item Name="DatasetNames.ctl" Type="VI" URL="../DatasetNames.ctl"/>
 		<Item Name="GetAllData.vi" Type="VI" URL="../GetAllData.vi"/>
 		<Item Name="GetDigitizerDataV1729A.vi" Type="VI" URL="../GetDigitizerDataV1729A.vi"/>
+		<Item Name="GetTimeNow.vi" Type="VI" URL="../GetTimeNow.vi"/>
 		<Item Name="GLOBAL_addresses.vi" Type="VI" URL="../GLOBAL_addresses.vi"/>
 		<Item Name="GLOBAL_Dig1.vi" Type="VI" URL="../GLOBAL_Dig1.vi"/>
 		<Item Name="GLOBAL_QDC_Data.vi" Type="VI" URL="../GLOBAL_QDC_Data.vi"/>
@@ -24,6 +25,7 @@
 		<Item Name="GLOBAL_TDC_Data.vi" Type="VI" URL="../GLOBAL_TDC_Data.vi"/>
 		<Item Name="GLOBAL_timing_data.vi" Type="VI" URL="../GLOBAL_timing_data.vi"/>
 		<Item Name="InitializeFile.vi" Type="VI" URL="../InitializeFile.vi"/>
+		<Item Name="InitializeRunInfoDatabase.vi" Type="VI" URL="../InitializeRunInfoDatabase.vi"/>
 		<Item Name="MeanTempGlobalVar.vi" Type="VI" URL="../MeanTempGlobalVar.vi"/>
 		<Item Name="ProcessEvtTDC.vi" Type="VI" URL="../ProcessEvtTDC.vi"/>
 		<Item Name="QDC_Histogram.vi" Type="VI" URL="../QDC_Histogram.vi"/>
@@ -33,6 +35,7 @@
 		<Item Name="SaveDataScalerV830.vi" Type="VI" URL="../SaveDataScalerV830.vi"/>
 		<Item Name="SaveDataTDCV775.vi" Type="VI" URL="../SaveDataTDCV775.vi"/>
 		<Item Name="SaveTimeData.vi" Type="VI" URL="../SaveTimeData.vi"/>
+		<Item Name="testbytestrings.vi" Type="VI" URL="../testbytestrings.vi"/>
 		<Item Name="Unique Path Name.vi" Type="VI" URL="../Unique Path Name.vi"/>
 		<Item Name="WriteCompressed_Digitizer.vi" Type="VI" URL="../WriteCompressed_Digitizer.vi"/>
 		<Item Name="WriteCompressed_QDC.vi" Type="VI" URL="../WriteCompressed_QDC.vi"/>
@@ -211,6 +214,7 @@
 				<Item Name="H5P.lvlib" Type="Library" URL="/&lt;vilib&gt;/addons/h5labview2/props/H5P.lvlib"/>
 				<Item Name="H5S.lvlib" Type="Library" URL="/&lt;vilib&gt;/addons/h5labview2/space/H5S.lvlib"/>
 				<Item Name="H5T.lvlib" Type="Library" URL="/&lt;vilib&gt;/addons/h5labview2/type/H5T.lvlib"/>
+				<Item Name="hclass_t.ctl" Type="VI" URL="/&lt;vilib&gt;/addons/h5labview2/base/hclass_t.ctl"/>
 				<Item Name="hid_t.ctl" Type="VI" URL="/&lt;vilib&gt;/addons/h5labview2/base/hid_t.ctl"/>
 				<Item Name="High Resolution Relative Seconds.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/High Resolution Relative Seconds.vi"/>
 				<Item Name="lib_path.vi" Type="VI" URL="/&lt;vilib&gt;/addons/h5labview2/base/lib_path.vi"/>
@@ -257,6 +261,7 @@
 				<Item Name="WDT Number of Waveform Samples SGL.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/WDTOps.llb/WDT Number of Waveform Samples SGL.vi"/>
 			</Item>
 			<Item Name="AlignTrig.vi" Type="VI" URL="../AlignTrig.vi"/>
+			<Item Name="AppendStrArrayH5.vi" Type="VI" URL="../AppendStrArrayH5.vi"/>
 			<Item Name="CAENComm.dll" Type="Document" URL="CAENComm.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
