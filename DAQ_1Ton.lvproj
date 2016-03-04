@@ -12,6 +12,7 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="AcquireEventDigitizerV1729A.vi" Type="VI" URL="../AcquireEventDigitizerV1729A.vi"/>
 		<Item Name="AcquiringStates.ctl" Type="VI" URL="../AcquiringStates.ctl"/>
+		<Item Name="AppendEventInfoH5.vi" Type="VI" URL="../AppendEventInfoH5.vi"/>
 		<Item Name="AppendRunInfoH5.vi" Type="VI" URL="../AppendRunInfoH5.vi"/>
 		<Item Name="CompressFile.vi" Type="VI" URL="../CompressFile.vi"/>
 		<Item Name="DatasetNames.ctl" Type="VI" URL="../DatasetNames.ctl"/>
@@ -24,6 +25,7 @@
 		<Item Name="GLOBAL_Scaler_Data.vi" Type="VI" URL="../GLOBAL_Scaler_Data.vi"/>
 		<Item Name="GLOBAL_TDC_Data.vi" Type="VI" URL="../GLOBAL_TDC_Data.vi"/>
 		<Item Name="GLOBAL_timing_data.vi" Type="VI" URL="../GLOBAL_timing_data.vi"/>
+		<Item Name="IncrementTDCVal.vi" Type="VI" URL="../IncrementTDCVal.vi"/>
 		<Item Name="InitializeFile.vi" Type="VI" URL="../InitializeFile.vi"/>
 		<Item Name="InitializeRunInfoDatabase.vi" Type="VI" URL="../InitializeRunInfoDatabase.vi"/>
 		<Item Name="MeanTempGlobalVar.vi" Type="VI" URL="../MeanTempGlobalVar.vi"/>
