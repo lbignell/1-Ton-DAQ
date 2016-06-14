@@ -23,10 +23,14 @@
 		<Item Name="GetTimeNow.vi" Type="VI" URL="../GetTimeNow.vi"/>
 		<Item Name="GLOBAL_addresses.vi" Type="VI" URL="../GLOBAL_addresses.vi"/>
 		<Item Name="GLOBAL_Dig1.vi" Type="VI" URL="../GLOBAL_Dig1.vi"/>
+		<Item Name="GLOBAL_PedCals_Dig1.vi" Type="VI" URL="../GLOBAL_PedCals_Dig1.vi"/>
+		<Item Name="GLOBAL_PedCals_Dig2.vi" Type="VI" URL="../GLOBAL_PedCals_Dig2.vi"/>
 		<Item Name="GLOBAL_QDC_Data.vi" Type="VI" URL="../GLOBAL_QDC_Data.vi"/>
 		<Item Name="GLOBAL_Scaler_Data.vi" Type="VI" URL="../GLOBAL_Scaler_Data.vi"/>
 		<Item Name="GLOBAL_TDC_Data.vi" Type="VI" URL="../GLOBAL_TDC_Data.vi"/>
 		<Item Name="GLOBAL_timing_data.vi" Type="VI" URL="../GLOBAL_timing_data.vi"/>
+		<Item Name="GLOBAL_VernierCals_Dig1.vi" Type="VI" URL="../GLOBAL_VernierCals_Dig1.vi"/>
+		<Item Name="GLOBAL_VernierCals_Dig2.vi" Type="VI" URL="../GLOBAL_VernierCals_Dig2.vi"/>
 		<Item Name="IncrementTDCVal.vi" Type="VI" URL="../IncrementTDCVal.vi"/>
 		<Item Name="InitializeFile.vi" Type="VI" URL="../InitializeFile.vi"/>
 		<Item Name="InitializeRunInfoDatabase.vi" Type="VI" URL="../InitializeRunInfoDatabase.vi"/>
@@ -36,12 +40,16 @@
 		<Item Name="QDCDataCluster.ctl" Type="VI" URL="../QDCDataCluster.ctl"/>
 		<Item Name="RS232test.vi" Type="VI" URL="../RS232test.vi"/>
 		<Item Name="Run1Ton.vi" Type="VI" URL="../Run1Ton.vi"/>
+		<Item Name="RunVernierCalibV1729A.vi" Type="VI" URL="../RunVernierCalibV1729A.vi"/>
 		<Item Name="SaveDataDigitizerV1729.vi" Type="VI" URL="../SaveDataDigitizerV1729.vi"/>
 		<Item Name="SaveDataScalerV830.vi" Type="VI" URL="../SaveDataScalerV830.vi"/>
 		<Item Name="SaveDataTDCV775.vi" Type="VI" URL="../SaveDataTDCV775.vi"/>
 		<Item Name="SaveTimeData.vi" Type="VI" URL="../SaveTimeData.vi"/>
+		<Item Name="SaveVernierCalibV1729A.vi" Type="VI" URL="../SaveVernierCalibV1729A.vi"/>
 		<Item Name="testbytestrings.vi" Type="VI" URL="../testbytestrings.vi"/>
 		<Item Name="Unique Path Name.vi" Type="VI" URL="../Unique Path Name.vi"/>
+		<Item Name="VernierCorr.vi" Type="VI" URL="../VernierCorr.vi"/>
+		<Item Name="VernierHist.vi" Type="VI" URL="../VernierHist.vi"/>
 		<Item Name="WriteCompressed_Digitizer.vi" Type="VI" URL="../WriteCompressed_Digitizer.vi"/>
 		<Item Name="WriteCompressed_QDC.vi" Type="VI" URL="../WriteCompressed_QDC.vi"/>
 		<Item Name="WriteConfigSettings.vi" Type="VI" URL="../WriteConfigSettings.vi"/>
@@ -320,7 +328,6 @@
 			<Item Name="GetDataTDCV775_D32.vi" Type="VI" URL="../GetDataTDCV775_D32.vi"/>
 			<Item Name="GetScalerDataV830.vi" Type="VI" URL="../GetScalerDataV830.vi"/>
 			<Item Name="GLOBAL_baseline.vi" Type="VI" URL="../GLOBAL_baseline.vi"/>
-			<Item Name="GlobalPedCal.vi" Type="VI" URL="../GlobalPedCal.vi"/>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 			<Item Name="nilvaiu.dll" Type="Document" URL="nilvaiu.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
