@@ -23,6 +23,7 @@
 		<Item Name="GetTimeNow.vi" Type="VI" URL="../GetTimeNow.vi"/>
 		<Item Name="GLOBAL_addresses.vi" Type="VI" URL="../GLOBAL_addresses.vi"/>
 		<Item Name="GLOBAL_Dig1.vi" Type="VI" URL="../GLOBAL_Dig1.vi"/>
+		<Item Name="GLOBAL_Dig2.vi" Type="VI" URL="../GLOBAL_Dig2.vi"/>
 		<Item Name="GLOBAL_PedCals_Dig1.vi" Type="VI" URL="../GLOBAL_PedCals_Dig1.vi"/>
 		<Item Name="GLOBAL_PedCals_Dig2.vi" Type="VI" URL="../GLOBAL_PedCals_Dig2.vi"/>
 		<Item Name="GLOBAL_QDC_Data.vi" Type="VI" URL="../GLOBAL_QDC_Data.vi"/>
@@ -256,6 +257,7 @@
 				<Item Name="imagedata.ctl" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/imagedata.ctl"/>
 				<Item Name="LabVIEWHTTPClient.lvlib" Type="Library" URL="/&lt;vilib&gt;/httpClient/LabVIEWHTTPClient.lvlib"/>
 				<Item Name="lib_path.vi" Type="VI" URL="/&lt;vilib&gt;/addons/h5labview2/base/lib_path.vi"/>
+				<Item Name="Merge Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Merge Errors.vi"/>
 				<Item Name="Move t0 to the end.vi" Type="VI" URL="/&lt;vilib&gt;/express/express shared/transition.llb/Move t0 to the end.vi"/>
 				<Item Name="New Zip File.vi" Type="VI" URL="/&lt;vilib&gt;/zip/New Zip File.vi"/>
 				<Item Name="NI_AALBase.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALBase.lvlib"/>
